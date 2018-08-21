@@ -1,0 +1,14 @@
+/* pages/my/lableList.wxss */
+.bottom_addlable_btn{
+  padding: 30rpx;
+  background:#fff;
+  border-top: 1px solid #e5e5e5;
+  color: #888888;
+}
+.page_bd{
+  margin-bottom: 200rpx;
+}
+
+.cells .cell .cell_bd{
+  color: #b2b2b2;
+}

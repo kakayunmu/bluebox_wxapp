@@ -1,0 +1,24 @@
+/* pages/my/my.wxss */
+.user_cells{
+  margin-top: 0rpx;
+}
+.user_headimg{
+  height: 160rpx;
+  width: 160rpx;
+}
+.user_name{
+  line-height: 80rpx;
+  text-align: left;
+  font-size: 40rpx;
+}
+.family_name{
+  line-height: 80rpx;
+  text-align: left;
+  font-size: 32rpx;
+  color: #888888;
+}
+.cell_bd i{
+  vertical-align: middle;
+  font-size: 60rpx;
+  margin-right: 20rpx;
+}

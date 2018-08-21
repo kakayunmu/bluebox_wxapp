@@ -1,0 +1,97 @@
+<view class='page'>
+  <view class='page_bd'>
+    <view class='cells_title'>常用标签</view>
+    <view class='cells'>
+      <view class='cell cell_link' bindtap='goEditLable'>
+        <view class='cell_hd'>标签1</view>
+        <view class='cell_bd'>标签1的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+      <view class='cell cell_link'>
+        <view class='cell_hd'>标签2</view>
+        <view class='cell_bd'>标签2的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+      <view class='cell cell_link'>
+        <view class='cell_hd'>标签3</view>
+        <view class='cell_bd'>标签3的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+      <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>标签4</view>
+        <view class='cell_bd'>标签4的描述</view>
+        <view class='cell_ft'></view>
+      </view>
+    </view>
+  </view>
+  <view class='page_ft float'>
+   <view class='bottom_addlable_btn'>
+    <i class='iconfont icon-xinzeng'></i> 添加新标签
+   </view>
+  </view>
+</view>

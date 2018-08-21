@@ -1,0 +1,36 @@
+<view class='page'>
+  <view class='page_hd'>
+    <view class='family_name' bindtap='goMyPage'>kakayunmu
+      <i class='iconfont icon-xiaosanjiaodown'></i>
+    </view>
+    <view class='hd_smfont'>总物件</view>
+    <view class='wj_count'>21</view>
+  </view>
+  <view class='page_bd'>
+    <view class='button_area'>
+      <button class='primary'>添加物件</button>
+    </view>
+    <view class='cells'>
+      <view class='cell cell_link'>
+        <view class='cell_hd'><i class='iconfont icon-woshixianxing' style='color:red;'></i> 鞋子</view>
+        <view class='cell_bd'>20</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>衣服</view>
+        <view class='cell_bd'>20</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>领带</view>
+        <view class='cell_bd'>20</view>
+        <view class='cell_ft'></view>
+      </view>
+       <view class='cell cell_link'>
+        <view class='cell_hd'>其他杂物</view>
+        <view class='cell_bd'>20</view>
+        <view class='cell_ft'></view>
+      </view>
+    </view>
+  </view>
+</view>

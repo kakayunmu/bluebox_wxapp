@@ -1,0 +1,33 @@
+<view class='page'>
+  <view class='page_hd'>
+    <view class='cells user_cells'>
+      <view class='cell'>
+        <view class='cell_hd'>
+          <image class='user_headimg' src='../../images/user_default_headimg.jpg'></image>
+        </view>
+        <view class='cell_bd'>
+          <view class='user_name'>张三</view>
+          <view class='family_name'>这里是家庭名称</view>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='page_bd'>
+    <view class='cells'>
+      <view class='cell cell_link'>
+        <view class='cell_bd' bindtap='goLableList'><i class='iconfont icon-tag' style='color:#576b95;'></i> 标签管理</view>
+        <view class='cell_ft'></view>
+      </view>
+      <view class='cell cell_link'>
+        <view class='cell_bd'><i class='iconfont icon-fenlei' style='color:#09bb07;'></i> 类别管理</view>
+        <view class='cell_ft'></view>
+      </view>
+    </view>
+    <view class='cells'>
+      <view class='cell cell_link'>
+        <view class='cell_bd'><i class='iconfont icon-icon-test2' style='color:#1296DB;'></i> 设置</view>
+        <view class='cell_ft'></view>
+      </view>
+    </view>
+  </view>
+</view>

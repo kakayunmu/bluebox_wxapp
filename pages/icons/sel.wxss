@@ -1,0 +1,38 @@
+.icon_items {
+  display: flex;
+  flex-flow: row wrap;
+  -webkit-flex-flow: row wrap;
+}
+
+.icon_items .icon_item {
+  width: 33.333%;
+  height: 50px;
+  box-sizing: border-box;
+  border: solid #ccc;
+  border-width: 0px 1rpx 1rpx 0rpx;
+  position: relative;
+  text-align: center;
+}
+
+.icon_items .icon_item:nth-child(3n) {
+  border-right: 0px;
+}
+
+.floater {
+  float: left;
+  height: 50%;
+  margin-bottom: -60rpx;
+}
+
+.content {
+ position: absolute;
+    top: 50%;
+    height: 120rpx;
+    margin-top: -60rpx; 
+    width: 100%;
+}
+
+.icon_items .icon_item i {
+  font-size: 80rpx;
+  color: #888888;
+}

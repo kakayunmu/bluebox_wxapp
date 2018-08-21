@@ -1,0 +1,8 @@
+
+.family_name{
+  font-size: 40rpx;
+  padding-bottom: 30rpx;
+}
+.wj_count{
+  font-size: 100rpx;
+}
